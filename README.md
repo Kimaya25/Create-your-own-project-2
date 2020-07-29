@@ -1,1 +1,2 @@
-# Create-your-own-project-2
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
